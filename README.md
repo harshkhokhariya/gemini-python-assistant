@@ -13,3 +13,9 @@ Prequisites:
 	- google generative ai library
 - API key
 - Python 3.9+
+
+# How to Run:
+- install the Google Generative AI library
+- download run.py
+- In the terminal run the script
+ `py run.py`
