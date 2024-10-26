@@ -24,6 +24,8 @@ Prequisites:
  `py run.py`
 - If you don't want to execute the code and just want answer in plain english, add `plain text answer` in your prompt
 
+# Example 1: Extracting text from wikipedia
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/X5Slm6RxqNU/0.jpg)](http://www.youtube.com/watch?v=X5Slm6RxqNU "Video Title")
   Email: harshkhokhariya10@gmail.com
     
   Reddit Username:u/harsh_khokhariya
